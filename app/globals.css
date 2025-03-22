@@ -23,6 +23,7 @@
 
   .territory-label {
     @apply absolute bg-white/85 rounded px-2.5 py-1.5 shadow text-sm pointer-events-none;
+    transform: translate(-50%, -50%);
   }
 
   .option-btn {
